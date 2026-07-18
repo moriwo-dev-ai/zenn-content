@@ -3,7 +3,7 @@ title: "自己進化は勝手に本体を書き換えない：AMA-terasのworktr
 emoji: "⛩️"
 type: "tech"
 topics: ["ai", "claude", "electron", "typescript", "個人開発"]
-published: false
+published: true
 ---
 
 ## 導入: 自己進化という言葉の誤解
