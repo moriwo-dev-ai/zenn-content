@@ -3,7 +3,7 @@ title: "本体が自分でBluesky GIF添付を実装した日：AMA-teras M94の
 emoji: "⛩️"
 type: "tech"
 topics: ["ai", "claude", "electron", "typescript", "個人開発"]
-published: false
+published: true
 ---
 
 ## 導入
